@@ -1,0 +1,55 @@
+#pimage {
+    margin-right: 1%;
+    max-width: 100%;
+    max-height: 100%;
+    float: left;
+}
+#price {
+    text-align: center;
+}
+.stock {
+    color: rgb(70, 226, 39);
+}
+#int {
+    color: rgb(255, 0, 0);
+}
+.affichage {
+    height: 40%;
+    width: 30%;
+}
+.ecriture {
+    height: 50%;
+    width: 50%;
+}
+#panier {
+    margin: 10% 30%;
+    width:100px;
+    top:50%;
+    left:50%;
+    background-color: rgb(226, 119, 31);
+}
+body {
+    background-image: url('test.png');
+    background-size: cover;
+    height: 100%;
+    padding:0;
+    margin:0;
+    box-sizing: content-box;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center;
+}
+.all {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin: 10% 0 10% 0;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: rgb(158, 163, 236);
+}
+#panier:hover {
+    background-color: rgb(135, 58, 158);
+}

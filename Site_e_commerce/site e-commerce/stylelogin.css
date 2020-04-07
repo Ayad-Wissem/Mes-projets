@@ -1,0 +1,63 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(117, 212, 117);
+}
+
+body {
+    background-image: url('thunder.gif');
+    background-size: cover;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+}
+
+input[type=email], input[type=password] {
+    width: 100%;
+    padding: 16px 20px;
+    margin: 0 auto;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+}
+
+button[type=submit] {
+    background-color: lightgreen;
+    color: white;
+    padding: 10px 16px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+}
+
+button[type=submit]:hover{
+    background-color: limegreen;
+}
+
+.container {
+    margin: auto;
+    padding: 14px;
+    width: 30%;
+    margin-bottom: 150px;
+    background-color: white;
+    align-content: center;
+}
+
+.form{
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: white;
+    align-content: center;  
+}
+
