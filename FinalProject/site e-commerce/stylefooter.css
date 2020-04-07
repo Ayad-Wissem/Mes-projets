@@ -1,0 +1,40 @@
+footer{
+    text-align: center;
+    display: inline;
+    bottom: 0;
+    margin-top: 25%;
+    background-color: #0007;
+    width: 100%;
+}
+
+/*body{
+    background-image: url('test.jpg');
+    background-size: cover;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+}*/
+
+li a{
+    display: inline;
+}
+
+li a img{
+    width: 25px;
+    height: 25px;
+}
+
+ul li{
+    display: inline;
+}
+
+.copy{
+    color: white;
+}
