@@ -17,7 +17,7 @@
 
 # Projet Si-View
 
-* Création d'un formulaire de contact avec auto-complétion en VueJS
+* Création d'un formulaire de contact avec auto-complétion en VueJS pour l'entreprise Si-View
 * Notions apprises: VueJS, notions d'API 
 * Projet Réalisé en 2 semaine en équipe de 4
 - Note Obtenu: 17.20
