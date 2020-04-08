@@ -27,4 +27,5 @@
 * Création d'une application permettant d'ajouter et consulter des restaurants. En Swift, Laravel et MYSQL
 * Notions apprises: Swift, Api REST
 * Projet Réalisé en 2 semaine en équipe de 2
+* Projet incomplet par manque de temps (Pandémie)
 - Note Obtenu: N/A 
