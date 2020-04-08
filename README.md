@@ -9,7 +9,7 @@
 
 # Site e-commerce:
 
-* Création d'un site e-commerce basic en PHP avec le framework Laravel et MYSQL
+* Création d'un site e-commerce basique en PHP avec le framework Laravel et MYSQL
 * Notions apprises: Back-end, Laravel, base de données, structure d'un site e-commerce basique
 * Projet réalisé en 2 semaine en équipe de 2
 * Implémentation du panier incomplète
