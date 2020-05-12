@@ -20,7 +20,7 @@
 * Création d'un formulaire de contact avec auto-complétion en VueJS pour l'entreprise Si-View
 * Notions apprises: VueJS, notions d'API 
 * Projet réalisé en 2 semaines en équipe de 4
-- Note Obtenu: 17.20
+- Note Obtenu: 17.20 | Supra Note
 
 # Restaurant Advisor
 
@@ -32,7 +32,7 @@
 
 # OuiVote
 
-* Création d'une application permettant de voter et de poster des sondages pour les mairies. En React Native, Laravel et MYSQL
+* Création d'une application permettant de voter et de poster des sondages pour les mairies pour l'entreprise OuiVote. En React Native, Laravel et MYSQL
 * Notions apprises: React Native et approfondissement de Laravel 
 * Projet réalisé en 2 semaines en équipe de 2
-- Note obtenu N/A .Mention projet coup de coeur
+- Note obtenu: 17 | Mention projet coup de coeur
